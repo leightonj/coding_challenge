@@ -23,7 +23,7 @@ Your task is to create a pull request (or multiple pull requests if you prefer) 
 Please write the code as if it intended to be used in a production system - i.e. it should be secure and well-designed.
 Do worry about performance a bit - it shouldn't make unnecessary requests or more processing than it needs to.
 Don't worry about scalability for the moment (i.e. it doesn't need to scale to 100s of users.)
-You will be judged on your ability to deliver workingg code that meets the requirements and code structure and design.
+You will be judged on your ability to deliver working code that meets the requirements and code structure and design.
 Feel free to add any Gems you like to the project to meet the requirments.
 
 Ideally this will take you no more than 2-3 hours. Please open a pull request(s) when you are finished.
