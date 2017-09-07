@@ -15,7 +15,7 @@ RSpec.describe User, type: :model do
   end
 
   it 'is invalid without an already used username' do
-    user = FactoryGirl.create(:user, username: 'not_used')
+    FactoryGirl.create(:user, username: 'not_used')
     expect(FactoryGirl.build(:user, username: 'not_used')).not_to be_valid
   end
 end
