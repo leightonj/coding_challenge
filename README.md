@@ -11,6 +11,7 @@ Your customer wants you to create an API that lets you search for movies by word
 For example, if I search for the word 'star' in the year 2000, it might be that 'all' appears 13 times, 'lone', appears 5 times, etc.
 
 You have access to the OMDB API for this http://www.omdbapi.com/
+
 Your api key is `e260c91c`
 
 Your task is to create a pull request (or multiple pull requests if you prefer) to meet the following requirements
@@ -23,6 +24,7 @@ Please write the code as if it intended to be used in a production system - i.e.
 Do worry about performance a bit - it shouldn't make unnecessary requests or more processing than it needs to.
 Don't worry about scalability for the moment (i.e. it doesn't need to scale to 100s of users.)
 You will be judged on your ability to deliver workingg code that meets the requirements and code structure and design.
+Feel free to add any Gems you like to the project to meet the requirments.
 
 Ideally this will take you no more than 2-3 hours. Please open a pull request(s) when you are finished.
 
