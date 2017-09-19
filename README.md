@@ -1,5 +1,17 @@
 # Coding challenge README
 
+* Ruby 2.3.3
+
+* ENV['OMDBAPI_KEY'] must be set to use omdbapi
+
+* rake db:create to create your database
+
+* rake db:seed to insert an initial user
+
+* rspec to run all tests
+
+* all API requests must include username & usertoken
+
 This is a vanilla Rails 5 App install, created with the command:
 
 `rails new coding_challenge --api --skip-active-record`
